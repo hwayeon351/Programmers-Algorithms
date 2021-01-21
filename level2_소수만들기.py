@@ -8,9 +8,11 @@ def solution(nums):
         c_sum = sum(c)
         num = int(sqrt(c_sum))+1
         i = 1
+        check = True
         for i in range(2, num + 1):
             if c_sum % i == 0:
+                check = False
                 break
-        if i == num:
+        if check:
             answer += 1
     return answer
