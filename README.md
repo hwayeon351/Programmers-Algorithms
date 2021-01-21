@@ -23,4 +23,4 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 올바른 괄호 -> https://hwayomingdlog.tistory.com/23
 
-소수 만들기 -> 
+소수 만들기 -> https://hwayomingdlog.tistory.com/26?category=939394
