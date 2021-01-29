@@ -28,3 +28,5 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 다음 큰 숫자 -> https://hwayomingdlog.tistory.com/28
 
 영어 끝말잇기 -> https://hwayomingdlog.tistory.com/33
+
+점프와 순간 이동 -> https://hwayomingdlog.tistory.com/34
