@@ -32,3 +32,5 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 점프와 순간 이동 -> https://hwayomingdlog.tistory.com/34
 
 예상 대진표 -> https://hwayomingdlog.tistory.com/36
+
+땅따먹기 -> https://hwayomingdlog.tistory.com/41
