@@ -36,3 +36,5 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 땅따먹기 -> https://hwayomingdlog.tistory.com/41
 
 폰켓몬 -> https://hwayomingdlog.tistory.com/42 
+
+2018 KAKAO BLIND RECRUITMENT
