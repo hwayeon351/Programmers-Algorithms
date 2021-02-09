@@ -14,7 +14,7 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도 -> https://hwayomingdlog.tistory.com/43
 
-2018 KAKAO BLIND RECRUITMENT [1차] 다트게임 -> 
+2018 KAKAO BLIND RECRUITMENT [1차] 다트게임 -> https://hwayomingdlog.tistory.com/45
 
 
 <Level 2>
