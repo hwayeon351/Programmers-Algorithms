@@ -10,6 +10,12 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 [문제별 풀이]
 
+<Level 1>
+
+2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도 -> https://hwayomingdlog.tistory.com/43
+
+2018 KAKAO BLIND RECRUITMENT [1차] 다트게임 -> 
+
 
 <Level 2>
 
@@ -36,5 +42,3 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 땅따먹기 -> https://hwayomingdlog.tistory.com/41
 
 폰켓몬 -> https://hwayomingdlog.tistory.com/42 
-
-2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도 -> 
