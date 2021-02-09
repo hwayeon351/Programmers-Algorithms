@@ -43,4 +43,9 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 폰켓몬 -> https://hwayomingdlog.tistory.com/42 
 
-2018 KAKAO BLIND RECRUITMENT [1차] 캐시 -> 
+2018 KAKAO BLIND RECRUITMENT [1차] 캐시 -> https://hwayomingdlog.tistory.com/manage/posts/
+
+2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링 -> 
+
+2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈4블록 -> 
+
