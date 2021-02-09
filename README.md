@@ -47,7 +47,7 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링 -> https://hwayomingdlog.tistory.com/47
 
-2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈 4블록 -> 
+2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈 4블록 -> https://hwayomingdlog.tistory.com/manage/posts/
 
 
 <Level 3>
