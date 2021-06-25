@@ -16,6 +16,8 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 2018 KAKAO BLIND RECRUITMENT [1차] 다트게임 -> https://hwayomingdlog.tistory.com/45
 
+모의고사 -> 
+
 
 <Level 2>
 
@@ -48,6 +50,8 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링 -> https://hwayomingdlog.tistory.com/47
 
 2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈 4블록 -> https://hwayomingdlog.tistory.com/manage/posts/
+
+소수 찾기 ->
 
 
 <Level 3>
