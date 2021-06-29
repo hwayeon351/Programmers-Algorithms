@@ -57,9 +57,9 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 카펫 -> https://hwayomingdlog.tistory.com/55
 
-가장 큰 수 ->
+가장 큰 수 -> https://hwayomingdlog.tistory.com/58
 
-H-Index ->
+H-Index -> https://hwayomingdlog.tistory.com/59
 
 </br><Level 3>
 
