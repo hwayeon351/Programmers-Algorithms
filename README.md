@@ -5,10 +5,10 @@
 [풀이 노트]
 
 https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
-
-
 </br>
-[문제별 풀이]
+
+
+[문제별 풀이]</br>
 
 <Level 1>
 
@@ -20,8 +20,8 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 K번째수 -> https://hwayomingdlog.tistory.com/56?category=939394
 
-</br>
-<Level 2>
+
+</br><Level 2>
 
 JadenCase 문자열 만들기 -> https://hwayomingdlog.tistory.com/8?category=939394
 
@@ -61,8 +61,7 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 H-Index ->
 
-</br>
-<Level 3>
+</br><Level 3>
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
