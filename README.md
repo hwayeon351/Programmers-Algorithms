@@ -63,7 +63,6 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 타겟 넘버 -> https://hwayomingdlog.tistory.com/61
 
-네트워크 -> 
 
 </br><Level 3>
 
