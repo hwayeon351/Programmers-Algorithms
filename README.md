@@ -70,7 +70,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2018 KAKAO BLIND RECRUITMENT [1차] 추석트래픽 -> 
 
-네트워크 -> 
+네트워크 -> https://hwayomingdlog.tistory.com/62
 
 단어 변환 ->
 
