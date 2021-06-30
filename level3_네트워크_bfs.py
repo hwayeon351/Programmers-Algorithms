@@ -1,18 +1,17 @@
-def bfs(i, visit, computers):
-    queue = []
-    queue.append(i)
-    while(len(queue) > 0):
-        com = queue.pop(0)
-        visit[com] = True
-        for i in range(0, len(computers)):
-            if i != com and visit[i] == False and computers[com][i]:
-                queue.append(i)
-
+def bfs(i, visit, n, computers):
+    queue = [i]
+    while queue:
+        front = queue.pop()
+        visit[front] = True
+        for idx in range(n):
+            if front!=idx and computers[front][idx] and visit[idx]==False:
+                queue.append(idx)
+            
 def solution(n, computers):
     answer = 0
-    visit = [False]*n
-    for i in range(0, n):
-        if visit[i] == False:
-            bfs(i, visit, computers)
+    visit = [False]*len(computers)
+    for i in range(len(computers)):
+        if visit[i]==False:
+            bfs(i, visit, n, computers)
             answer+=1
     return answer
