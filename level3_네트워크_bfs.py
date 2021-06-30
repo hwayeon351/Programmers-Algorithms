@@ -1,7 +1,8 @@
+from collections import deque
 def bfs(i, visit, n, computers):
-    queue = [i]
+    queue = deque([i])
     while queue:
-        front = queue.pop()
+        front = queue.popleft()
         visit[front] = True
         for idx in range(n):
             if front!=idx and computers[front][idx] and visit[idx]==False:
