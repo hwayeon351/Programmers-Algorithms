@@ -61,6 +61,10 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 H-Index -> https://hwayomingdlog.tistory.com/59
 
+타겟 넘버 -> https://hwayomingdlog.tistory.com/61
+
+네트워크 -> 
+
 </br><Level 3>
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
