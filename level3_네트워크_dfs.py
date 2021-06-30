@@ -1,15 +1,15 @@
-def dfs(now_com, visit, computers):
-    visit[now_com] = True
-    for i in range(0, len(computers)):
-        if i!=now_com and computers[now_com][i] == 1:
-            if visit[i] == False:
-                dfs(i, visit, computers)
-
+def dfs(i, visit, n, computers):
+    for idx in range(n):
+        if i!=idx and computers[i][idx] and visit[idx]==False:
+            visit[idx] = True
+            dfs(idx, visit, n, computers)
+            
 def solution(n, computers):
     answer = 0
-    visit = [False]*n
-    for i in range(0, n):
-        if visit[i] == False:
-            dfs(i, visit, computers)
+    visit = [False]*len(computers)
+    for i in range(len(computers)):
+        if visit[i]==False:
+            visit[i] = True
+            dfs(i, visit, n, computers)
             answer+=1
     return answer
