@@ -13,8 +13,8 @@ def dfs(i, target, words, visit, cnt):
 
 def solution(begin, target, words):
     global answer
-    answer = 51
     if target not in words: return 0
+    answer = len(words)
     visit = [False]*len(words)
     for b_i in range(len(begin)):
         for i, w in enumerate(words):
