@@ -65,6 +65,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 기능 개발 -> 
 
+프린터 ->
+
 </br><Level 3>
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
