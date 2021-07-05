@@ -69,6 +69,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 다리를 지나는 트럭 -> https://hwayomingdlog.tistory.com/67
 
+주식가격 -> https://hwayomingdlog.tistory.com/68
+
 </br><Level 3>
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
