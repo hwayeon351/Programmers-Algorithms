@@ -63,11 +63,11 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 타겟 넘버 -> https://hwayomingdlog.tistory.com/61
 
-기능 개발 -> 
+기능 개발 -> https://hwayomingdlog.tistory.com/64
 
-프린터 ->
+프린터 -> https://hwayomingdlog.tistory.com/65
 
-다리를 지나는 트럭 ->
+다리를 지나는 트럭 -> https://hwayomingdlog.tistory.com/67
 
 </br><Level 3>
 
