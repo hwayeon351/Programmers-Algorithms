@@ -67,6 +67,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 프린터 ->
 
+다리를 지나는 트럭 ->
+
 </br><Level 3>
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
