@@ -1,18 +1,17 @@
 from collections import deque
 def solution(bridge_length, weight, truck_weights):
+    bridge = deque([0]*bridge_length)
     wait = deque(truck_weights)
-    bridge = deque()
     t = 0
-    while wait or bridge:
+    now_weight = 0
+    while bridge:
         t += 1
-        for truck in bridge:
-            truck[1] += 1
-        if len(bridge) > 0:
-            if bridge[0][1] == bridge_length+1:
-                bridge.popleft()
-        if len(wait) > 0:
-            if len(bridge) == 0:
-                bridge.append([wait.popleft(), 1])
-            elif len(bridge) < bridge_length and bridge[-1][1] > 1 and sum(list(zip(*bridge))[0]) + wait[0] <= weight:
-                bridge.append([wait.popleft(), 1])
+        now_weight -= bridge.popleft()
+        if wait:
+            if now_weight + wait[0] <= weight:
+                t_weight = wait.popleft()
+                bridge.append(t_weight)
+                now_weight += t_weight
+            else:
+                bridge.append(0)
     return t
