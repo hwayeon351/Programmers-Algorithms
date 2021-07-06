@@ -20,6 +20,10 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 K번째수 -> https://hwayomingdlog.tistory.com/56?category=939394
 
+완주하지 못한 선수 -> https://hwayomingdlog.tistory.com/69
+
+전화번호 목록 -> 
+
 
 </br><Level 2>
 
