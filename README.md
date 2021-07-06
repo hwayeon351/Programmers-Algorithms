@@ -74,7 +74,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 주식가격 -> https://hwayomingdlog.tistory.com/68
 
-전화번호 목록 -> 
+전화번호 목록 -> https://hwayomingdlog.tistory.com/70
 
 
 
