@@ -87,7 +87,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 여행경로 -> https://hwayomingdlog.tistory.com/52
 
-베스트 앨범 -> 
+베스트 앨범 -> https://hwayomingdlog.tistory.com/manage/posts/
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
