@@ -16,9 +16,9 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 2018 KAKAO BLIND RECRUITMENT [1차] 다트게임 -> https://hwayomingdlog.tistory.com/45
 
-모의고사 -> https://hwayomingdlog.tistory.com/53?category=939394
+모의고사 -> https://hwayomingdlog.tistory.com/53
 
-K번째수 -> https://hwayomingdlog.tistory.com/56?category=939394
+K번째수 -> https://hwayomingdlog.tistory.com/56
 
 완주하지 못한 선수 -> https://hwayomingdlog.tistory.com/69
 
@@ -26,17 +26,17 @@ K번째수 -> https://hwayomingdlog.tistory.com/56?category=939394
 
 </br><Level 2>
 
-JadenCase 문자열 만들기 -> https://hwayomingdlog.tistory.com/8?category=939394
+JadenCase 문자열 만들기 -> https://hwayomingdlog.tistory.com/8
 
-행렬의 곱셈 -> https://hwayomingdlog.tistory.com/4?category=939394
+행렬의 곱셈 -> https://hwayomingdlog.tistory.com/4
 
-N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
+N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16
 
 짝지어 제거하기 -> https://hwayomingdlog.tistory.com/19
 
 올바른 괄호 -> https://hwayomingdlog.tistory.com/23
 
-소수 만들기 -> https://hwayomingdlog.tistory.com/26?category=939394
+소수 만들기 -> https://hwayomingdlog.tistory.com/26
 
 다음 큰 숫자 -> https://hwayomingdlog.tistory.com/28
 
@@ -50,13 +50,13 @@ N개의 최소공배수 -> https://hwayomingdlog.tistory.com/16?category=939394
 
 폰켓몬 -> https://hwayomingdlog.tistory.com/42 
 
-2018 KAKAO BLIND RECRUITMENT [1차] 캐시 -> https://hwayomingdlog.tistory.com/manage/posts/
+2018 KAKAO BLIND RECRUITMENT [1차] 캐시 -> https://hwayomingdlog.tistory.com/46
 
 2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링 -> https://hwayomingdlog.tistory.com/47
 
-2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈 4블록 -> https://hwayomingdlog.tistory.com/manage/posts/
+2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈 4블록 -> https://hwayomingdlog.tistory.com/48
 
-소수 찾기 -> https://hwayomingdlog.tistory.com/54?category=939394
+소수 찾기 -> https://hwayomingdlog.tistory.com/54
 
 카펫 -> https://hwayomingdlog.tistory.com/55
 
@@ -89,9 +89,9 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 여행경로 -> https://hwayomingdlog.tistory.com/52
 
-베스트 앨범 -> https://hwayomingdlog.tistory.com/manage/posts/
+베스트 앨범 -> https://hwayomingdlog.tistory.com/72
 
-디스크 컨트롤러 -> https://hwayomingdlog.tistory.com/manage/posts/
+디스크 컨트롤러 -> https://hwayomingdlog.tistory.com/74
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
