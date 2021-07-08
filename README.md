@@ -91,7 +91,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 베스트 앨범 -> https://hwayomingdlog.tistory.com/manage/posts/
 
-디스크 컨트롤러 -> 
+디스크 컨트롤러 -> https://hwayomingdlog.tistory.com/manage/posts/
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
