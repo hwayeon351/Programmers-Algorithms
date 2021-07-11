@@ -93,7 +93,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 디스크 컨트롤러 -> https://hwayomingdlog.tistory.com/74
 
-이중우선순위큐 -> 
+이중우선순위큐 -> https://hwayomingdlog.tistory.com/75
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
