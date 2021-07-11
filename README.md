@@ -95,7 +95,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 이중우선순위큐 -> https://hwayomingdlog.tistory.com/75
 
-입국심사 -> 
+입국심사 -> https://hwayomingdlog.tistory.com/76
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
