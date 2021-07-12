@@ -99,6 +99,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
+정수 삼각형 -> https://hwayomingdlog.tistory.com/78
+
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
 2018 KAKAO BLIND RECRUITMENT [1차] 추석트래픽 -> 
