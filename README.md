@@ -22,7 +22,7 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 
 완주하지 못한 선수 -> https://hwayomingdlog.tistory.com/69
 
-체육복 -> 
+체육복 -> https://hwayomingdlog.tistory.com/80
 
 
 
@@ -102,6 +102,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 정수 삼각형 -> https://hwayomingdlog.tistory.com/78
+
+등굣길 ->
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
