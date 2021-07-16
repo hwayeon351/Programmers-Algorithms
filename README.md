@@ -113,7 +113,9 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 섬 연결하기 -> https://hwayomingdlog.tistory.com/83
 
-단속카메라 -> 
+단속카메라 -> https://hwayomingdlog.tistory.com/87
+
+가장 먼 노드 -> 
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
