@@ -121,7 +121,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 다단계 칫솔 판매 -> https://hwayomingdlog.tistory.com/92
 
-2 x n 타일링 -> 
+2 x n 타일링 -> https://hwayomingdlog.tistory.com/93
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
