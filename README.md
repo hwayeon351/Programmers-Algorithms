@@ -123,7 +123,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2 x n 타일링 -> https://hwayomingdlog.tistory.com/93
 
-모두 0으로 만들기 -> 
+모두 0으로 만들기 -> https://hwayomingdlog.tistory.com/94
 
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
