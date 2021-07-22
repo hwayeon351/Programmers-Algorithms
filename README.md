@@ -125,9 +125,9 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 모두 0으로 만들기 -> https://hwayomingdlog.tistory.com/94
 
-스타 수열 -> 
+스타 수열 -> https://hwayomingdlog.tistory.com/97
 
-가장 긴 팰린드롬 -> 
+가장 긴 팰린드롬 -> https://hwayomingdlog.tistory.com/98
 
 110 옮기기 ->
 
