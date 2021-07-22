@@ -125,6 +125,10 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 모두 0으로 만들기 -> https://hwayomingdlog.tistory.com/94
 
+스타 수열 -> 
+
+가장 긴 팰린드롬 -> 
+
 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
 2018 KAKAO BLIND RECRUITMENT [1차] 추석트래픽 -> 
