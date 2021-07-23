@@ -4,7 +4,6 @@ def palindrome(left, right, s, visit):
     global answer
     if visit[left][right] == 1: return
     visit[left][right] = 1
-    mid = (right - left)//2
     l, r = left, right
     ck = True
     while l<=r:
