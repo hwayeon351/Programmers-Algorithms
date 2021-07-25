@@ -129,6 +129,10 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 가장 긴 팰린드롬 -> https://hwayomingdlog.tistory.com/98
 
+기지국 설치 -> https://hwayomingdlog.tistory.com/manage/posts/
+
+거스름돈 -> 
+
 110 옮기기 ->
 
 풍선 터트리기 -> 
