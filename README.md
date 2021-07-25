@@ -131,7 +131,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 기지국 설치 -> https://hwayomingdlog.tistory.com/99
 
-거스름돈 -> 
+거스름돈 -> https://hwayomingdlog.tistory.com/100
 
 110 옮기기 ->
 
