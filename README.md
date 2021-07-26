@@ -135,7 +135,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 멀리 뛰기 -> https://hwayomingdlog.tistory.com/101
 
-스티커 모으기(2) -> 
+스티커 모으기(2) -> https://hwayomingdlog.tistory.com/102
 
 110 옮기기 ->
 
