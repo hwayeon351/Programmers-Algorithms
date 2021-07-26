@@ -133,7 +133,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 거스름돈 -> https://hwayomingdlog.tistory.com/100
 
-멀리 뛰기 -> 
+멀리 뛰기 -> https://hwayomingdlog.tistory.com/101
 
 스티커 모으기(2) -> 
 
