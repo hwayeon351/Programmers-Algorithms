@@ -141,7 +141,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 최고의 집합 -> https://hwayomingdlog.tistory.com/103
 
-2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
+2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> https://hwayomingdlog.tistory.com/105
 
 야근 지수 -> 
 
