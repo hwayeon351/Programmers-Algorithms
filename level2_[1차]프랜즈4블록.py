@@ -1,34 +1,44 @@
-def find_erase_block(brd):
-    erase = []
-    for i in range(len(brd)-1):
-        for j in range(len(brd[0])-1):
-            c = brd[i][j]
-            if c == '0': continue
-            if brd[i][j+1] == c and brd[i+1][j+1] == c and brd[i+1][j] == c:
-                erase.append((i,j))
-                erase.append((i,j+1))
-                erase.append((i+1,j))
-                erase.append((i+1,j+1))
-    return list(set(erase))
-
 def solution(m, n, board):
     answer = 0
-    brd = []
-    erase = []
-    for i in range(len(board)):
-        brd.append(list(board[i]))
-    erase = find_erase_block(brd)
-    while(len(erase) > 0):
+    dx = [0, 1, 1]
+    dy = [-1, -1, 0]
+    erase = set()
+    set_b = set()
+    map_b = [list(board[i]) for i in range(m)]  
+    while True:
+        #지울 블록 찾기
+        erase.clear()
+        for y in range(m-1, 0, -1):
+            for x in range(0, n-1):
+                now_b = map_b[y][x]
+                if now_b == '0': continue
+                set_b.clear()
+                set_b.add((x, y))
+                for d in range(3):
+                    ny = y+dy[d]
+                    nx = x+dx[d]
+                    if map_b[ny][nx] == now_b:
+                        set_b.add((nx, ny))
+                        continue
+                    break
+                else:
+                    erase.update(set_b)
+        #지울 블록이 없는 경우
+        if len(erase) == 0: return answer
+        #블록 지우기
         answer += len(erase)
-        for i, j in erase:
-            brd[i][j] = "0"
-        for i in range(m-1, -1, -1):
-            for j in range(n):
-                if brd[i][j] == "0":
-                    for k in range(i-1, -1, -1):
-                        if(brd[k][j] != "0"):
-                            brd[i][j] = brd[k][j]
-                            brd[k][j] = "0"
-                            break
-        erase = find_erase_block(brd)
+        e_list = list(erase)
+        while e_list:
+            x, y = e_list.pop()
+            map_b[y][x] = '0'
+            
+        #블록 내리기
+        for col in range(n):
+            for i in range(m-2, -1, -1):
+                if map_b[i][col] == '0':
+                    continue
+                for j in range(m-1, i, -1):
+                    if map_b[j][col] == '0':
+                        map_b[j][col], map_b[i][col] = map_b[i][col], map_b[j][col]
+                        break  
     return answer
