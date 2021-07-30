@@ -141,6 +141,8 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 최고의 집합 -> https://hwayomingdlog.tistory.com/103
 
+2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
+
 야근 지수 -> 
 
 줄 서는 방법 -> 
@@ -148,8 +150,6 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 110 옮기기 ->
 
 풍선 터트리기 -> 
-
-2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스 -> 
 
 2018 KAKAO BLIND RECRUITMENT [1차] 추석트래픽 -> 
 
