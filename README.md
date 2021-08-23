@@ -24,7 +24,7 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 
 체육복 -> https://hwayomingdlog.tistory.com/80
 
-2021 카카오 채용연계형 인턴십 숫자 문자열과 영단어 -> https://hwayomingdlog.tistory.com/134
+2021 카카오 인턴십 숫자 문자열과 영단어 -> https://hwayomingdlog.tistory.com/134
 
 </br><Level 2>
 
