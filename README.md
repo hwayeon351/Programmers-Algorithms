@@ -26,7 +26,7 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 
 2021 카카오 인턴십 숫자 문자열과 영단어 -> https://hwayomingdlog.tistory.com/134
 
-2020 카카오 인턴십 키패드 누르기 -> 
+2020 카카오 인턴십 키패드 누르기 -> https://hwayomingdlog.tistory.com/138
 
 </br><Level 2>
 
