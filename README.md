@@ -28,7 +28,7 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 
 2020 카카오 인턴십 키패드 누르기 -> https://hwayomingdlog.tistory.com/138
 
-2019 카카오 인턴십 크레인 인형뽑기 -> 
+2019 카카오 인턴십 크레인 인형뽑기 -> https://hwayomingdlog.tistory.com/142
 
 </br><Level 2>
 
