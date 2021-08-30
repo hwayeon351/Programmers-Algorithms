@@ -156,7 +156,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 카카오 인턴십 보석 쇼핑 -> https://hwayomingdlog.tistory.com/136
 
-2019 카카오 인턴십 불량 사용자 -> 
+2019 카카오 인턴십 불량 사용자 -> https://hwayomingdlog.tistory.com/144
 
 110 옮기기 ->
 
