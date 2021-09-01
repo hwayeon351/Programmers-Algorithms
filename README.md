@@ -30,6 +30,8 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 
 2019 카카오 인턴십 크레인 인형뽑기 -> https://hwayomingdlog.tistory.com/142
 
+2019 KAKAO BLIND RECRUITMENT 실패율 -> 
+
 
 </br><Level 2>
 
@@ -94,6 +96,10 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 구명보트 -> https://hwayomingdlog.tistory.com/82
 
 2021 카카오 인턴십 거리두기 확인하기 -> https://hwayomingdlog.tistory.com/146
+
+2019 KAKAO BLIND RECRUITMENT 오픈채팅방 ->
+
+2019 KAKAO BLIND RECRUITMENT 후보키 -> 
 
 
 </br><Level 3>
@@ -162,6 +168,10 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 카카오 인턴십 경주로 건설 -> https://hwayomingdlog.tistory.com/147
 
+2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> 
+
+2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> 
+
 110 옮기기 ->
 
 풍선 터트리기 -> 
@@ -169,6 +179,12 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 숫자 게임 ->
 
 N-Queen -> 
+
+
+</br><Level 4>
+
+2019 KAKAO BLIND RECRUITMENT 무지의 먹방 라이브 -> 
+
 
 
 
