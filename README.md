@@ -160,7 +160,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2019 카카오 인턴십 불량 사용자 -> https://hwayomingdlog.tistory.com/144
 
-2020 카카오 인턴십 경주로 건설 -> 
+2020 카카오 인턴십 경주로 건설 -> https://hwayomingdlog.tistory.com/147
 
 110 옮기기 ->
 
