@@ -97,6 +97,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2021 카카오 인턴십 거리두기 확인하기 -> https://hwayomingdlog.tistory.com/146
 
+2020 카카오 인턴십 수식 최대화 -> 
+
 2019 KAKAO BLIND RECRUITMENT 오픈채팅방 ->
 
 2019 KAKAO BLIND RECRUITMENT 후보키 -> 
