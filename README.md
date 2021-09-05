@@ -103,9 +103,9 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2019 KAKAO BLIND RECRUITMENT 후보키 -> https://hwayomingdlog.tistory.com/151
 
-2020 KAKAO BLIND RECRUITMENT 문자열 압축 ->
+2020 KAKAO BLIND RECRUITMENT 문자열 압축 -> https://hwayomingdlog.tistory.com/155
 
-2020 KAKAO BLIND RECRUITMENT 괄호 변환 ->
+2020 KAKAO BLIND RECRUITMENT 괄호 변환 -> https://hwayomingdlog.tistory.com/156
 
 
 </br><Level 3>
@@ -180,7 +180,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> 
 
-2020 KAKAO BLIND RECRUITMENT 자물쇠와 열쇠 -> 
+2020 KAKAO BLIND RECRUITMENT 자물쇠와 열쇠 -> https://hwayomingdlog.tistory.com/157
 
 2020 KAKAO BLIND RECRUITMENT 기둥과 보 설치 ->
 
@@ -201,7 +201,7 @@ N-Queen ->
 
 2019 KAKAO BLIND RECRUITMENT 무지의 먹방 라이브 -> https://hwayomingdlog.tistory.com/153
 
-2020 KAKAO BLIND RECRUITMENT 가사 검색 ->
+2020 KAKAO BLIND RECRUITMENT 가사 검색 -> https://hwayomingdlog.tistory.com/158
 
 
 
