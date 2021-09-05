@@ -170,7 +170,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 카카오 인턴십 경주로 건설 -> https://hwayomingdlog.tistory.com/147
 
-2019 카카오 인턴십 징검다리 건너기 -> 
+2019 카카오 인턴십 징검다리 건너기 -> https://hwayomingdlog.tistory.com/154
 
 2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> https://hwayomingdlog.tistory.com/152
 
