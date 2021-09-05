@@ -99,9 +99,9 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2020 카카오 인턴십 수식 최대화 -> https://hwayomingdlog.tistory.com/148
 
-2019 KAKAO BLIND RECRUITMENT 오픈채팅방 -> 
+2019 KAKAO BLIND RECRUITMENT 오픈채팅방 -> https://hwayomingdlog.tistory.com/150
 
-2019 KAKAO BLIND RECRUITMENT 후보키 -> 
+2019 KAKAO BLIND RECRUITMENT 후보키 -> https://hwayomingdlog.tistory.com/151
 
 
 </br><Level 3>
@@ -170,7 +170,9 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 카카오 인턴십 경주로 건설 -> https://hwayomingdlog.tistory.com/147
 
-2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> 
+2019 카카오 인턴십 징검다리 건너기 -> 
+
+2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> https://hwayomingdlog.tistory.com/152
 
 2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> 
 
@@ -185,7 +187,7 @@ N-Queen ->
 
 </br><Level 4>
 
-2019 KAKAO BLIND RECRUITMENT 무지의 먹방 라이브 -> 
+2019 KAKAO BLIND RECRUITMENT 무지의 먹방 라이브 -> https://hwayomingdlog.tistory.com/153
 
 
 
