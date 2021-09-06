@@ -107,6 +107,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2020 KAKAO BLIND RECRUITMENT 괄호 변환 -> https://hwayomingdlog.tistory.com/156
 
+2019 카카오 인턴십 튜플 -> 
+
 
 </br><Level 3>
 
