@@ -109,6 +109,8 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2019 카카오 인턴십 튜플 -> https://hwayomingdlog.tistory.com/159
 
+2021 KAKAO BLIND RECRUITMENT 순위 검색 -> 
+
 
 </br><Level 3>
 
