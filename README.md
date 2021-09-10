@@ -109,7 +109,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 2019 카카오 인턴십 튜플 -> https://hwayomingdlog.tistory.com/159
 
-2021 KAKAO BLIND RECRUITMENT 순위 검색 -> 
+2021 KAKAO BLIND RECRUITMENT 순위 검색 -> https://hwayomingdlog.tistory.com/160
 
 
 </br><Level 3>
@@ -181,6 +181,8 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 2019 카카오 인턴십 징검다리 건너기 -> https://hwayomingdlog.tistory.com/154
 
 2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> https://hwayomingdlog.tistory.com/152
+
+2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> 
 
 2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> 
 
