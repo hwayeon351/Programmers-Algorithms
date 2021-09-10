@@ -1,6 +1,5 @@
 from itertools import combinations
 from collections import defaultdict
-import operator
 def solution(info, query):
     answer = []
     info_dict = defaultdict(list)
