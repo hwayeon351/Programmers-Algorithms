@@ -7,7 +7,6 @@ def make_map(road, _map):
 def get_order(_map, N, K):
     answer = 1
     visit = [0]*(N+1)
-    route = defaultdict(int)
     q = deque()
     visit[1] = 1
     
