@@ -8,7 +8,6 @@ def get_order(_map, N, K):
     answer = 1
     visit = [0]*(N+1)
     q = deque()
-    visit[1] = 1
     
     for t, dis in _map[1]:
         if dis > K: continue
