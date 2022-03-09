@@ -121,6 +121,10 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 배달 -> https://hwayomingdlog.tistory.com/294
 
+피로도 -> 
+
+2개 이하로 다른 비트 -> 
+
 
 
 </br><Level 3>
