@@ -123,7 +123,7 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 피로도 -> https://hwayomingdlog.tistory.com/295
 
-2개 이하로 다른 비트 -> 
+2개 이하로 다른 비트 -> https://hwayomingdlog.tistory.com/296
 
 
 
