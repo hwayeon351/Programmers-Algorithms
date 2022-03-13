@@ -8,7 +8,9 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/프로그래머스
 
 
 
-</br>[문제별 풀이]</br>
+</br>
+[문제별 풀이]
+</br>
 
 <Level 1>
 
@@ -33,7 +35,8 @@ K번째수 -> https://hwayomingdlog.tistory.com/56
 2019 KAKAO BLIND RECRUITMENT 실패율 -> 
 
 
-</br><Level 2>
+</br>
+<Level 2>
 
 JadenCase 문자열 만들기 -> https://hwayomingdlog.tistory.com/8
 
@@ -133,9 +136,12 @@ H-Index -> https://hwayomingdlog.tistory.com/59
 
 n^2 배열 자르기 -> https://hwayomingdlog.tistory.com/302
 
+방문 길이 ->
 
 
-</br><Level 3>
+
+</br>
+<Level 3>
 
 네트워크 -> https://hwayomingdlog.tistory.com/62
 
@@ -226,7 +232,8 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 N-Queen -> 
 
 
-</br><Level 4>
+</br>
+<Level 4>
 
 2019 KAKAO BLIND RECRUITMENT 무지의 먹방 라이브 -> https://hwayomingdlog.tistory.com/153
 
