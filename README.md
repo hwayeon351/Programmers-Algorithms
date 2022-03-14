@@ -229,7 +229,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 N-Queen -> 
 
-금과 은 운반하기 -> 
+금과 은 운반하기 -> https://hwayomingdlog.tistory.com/304
 
 아이템 줍기 -> 
 
