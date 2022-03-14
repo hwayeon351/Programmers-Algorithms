@@ -229,6 +229,10 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 N-Queen -> 
 
+금과 은 운반하기 -> 
+
+아이템 줍기 -> 
+
 
 </br><Level 4>
 
