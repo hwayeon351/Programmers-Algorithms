@@ -231,7 +231,7 @@ N-Queen ->
 
 금과 은 운반하기 -> https://hwayomingdlog.tistory.com/304
 
-아이템 줍기 -> 
+아이템 줍기 -> https://hwayomingdlog.tistory.com/305
 
 
 </br><Level 4>
