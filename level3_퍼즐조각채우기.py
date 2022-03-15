@@ -94,10 +94,13 @@ def get_block_range(table, n):
 
 
 def solution(game_board, table):
+
     blocks_range = get_block_range(table, 1)
     blocks = get_blocks(blocks_range, table)
+    get_rotated_blocks(blocks)
+    
     puzzles_range = get_block_range(game_board, 0)
     puzzles = get_blocks(puzzles_range, game_board)
-    get_rotated_blocks(blocks)
+
 
     return fill_puzzle(puzzles, blocks)
