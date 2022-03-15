@@ -233,7 +233,7 @@ N-Queen ->
 
 아이템 줍기 -> https://hwayomingdlog.tistory.com/305
 
-퍼즐 조각 채우기 -> 
+퍼즐 조각 채우기 -> https://hwayomingdlog.tistory.com/306
 
 
 
