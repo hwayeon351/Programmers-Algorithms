@@ -221,7 +221,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 KAKAO BLIND RECRUITMENT 블록 이동하기 ->
 
-110 옮기기 ->
+110 옮기기 -> https://hwayomingdlog.tistory.com/307
 
 풍선 터트리기 -> 
 
@@ -234,6 +234,8 @@ N-Queen ->
 아이템 줍기 -> https://hwayomingdlog.tistory.com/305
 
 퍼즐 조각 채우기 -> https://hwayomingdlog.tistory.com/306
+
+공 이동 시뮬레이션 -> 
 
 
 
