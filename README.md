@@ -235,7 +235,7 @@ N-Queen ->
 
 퍼즐 조각 채우기 -> https://hwayomingdlog.tistory.com/306
 
-공 이동 시뮬레이션 -> 
+공 이동 시뮬레이션 -> https://hwayomingdlog.tistory.com/308
 
 풍선 터트리기 -> 
 
