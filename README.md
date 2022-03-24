@@ -237,7 +237,7 @@ N-Queen ->
 
 공 이동 시뮬레이션 -> https://hwayomingdlog.tistory.com/308
 
-2021 카카오 인턴십 표 편집 -> 
+2021 카카오 인턴십 표 편집 -> https://hwayomingdlog.tistory.com/140
 
 
 
