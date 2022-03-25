@@ -239,7 +239,7 @@ N-Queen ->
 
 2021 카카오 인턴십 표 편집 -> https://hwayomingdlog.tistory.com/140
 
-2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡 -> 
+2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡 -> https://hwayomingdlog.tistory.com/310
 
 
 
