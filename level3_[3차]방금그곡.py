@@ -1,6 +1,5 @@
 def solution(m, musicinfos):
     musics = []
-    m_time = len(m) - m.count('#')
     m = m.replace('C#', 'H').replace('D#', 'I').replace('F#', 'J').replace('G#', 'K').replace('A#', 'L')
 
     for info in musicinfos:
@@ -20,11 +19,11 @@ def solution(m, musicinfos):
     musics.sort(key = lambda x: -x[0])
     
     for time, length, title, score in musics:
-        if time < m_time: continue
+        if time < len(m): continue
         if time <= len(score):
             if m in score[:time]: return title
             continue
-        ptime = max(m_time, time)
+        ptime = max(len(m), time)
         music = score * (ptime//len(score)+1)
         if m in music: return title
     
