@@ -137,6 +137,9 @@ n^2 배열 자르기 -> https://hwayomingdlog.tistory.com/302
 
 방문 길이 -> https://hwayomingdlog.tistory.com/303
 
+2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡 -> https://hwayomingdlog.tistory.com/310
+
+2018 KAKAO BLIND RECRUITMENT [3차] 압축 -> 
 
 
 </br><Level 3>
@@ -238,8 +241,6 @@ N-Queen ->
 공 이동 시뮬레이션 -> https://hwayomingdlog.tistory.com/308
 
 2021 카카오 인턴십 표 편집 -> https://hwayomingdlog.tistory.com/140
-
-2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡 -> https://hwayomingdlog.tistory.com/310
 
 
 
