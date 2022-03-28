@@ -139,7 +139,7 @@ n^2 배열 자르기 -> https://hwayomingdlog.tistory.com/302
 
 2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡 -> https://hwayomingdlog.tistory.com/310
 
-2018 KAKAO BLIND RECRUITMENT [3차] 압축 -> 
+2018 KAKAO BLIND RECRUITMENT [3차] 압축 -> https://hwayomingdlog.tistory.com/311
 
 
 </br><Level 3>
