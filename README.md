@@ -143,7 +143,7 @@ n^2 배열 자르기 -> https://hwayomingdlog.tistory.com/302
 
 2018 KAKAO BLIND RECRUITMENT [3차] 파일명 정렬 -> https://hwayomingdlog.tistory.com/312
 
-2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임 -> 
+2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임 -> https://hwayomingdlog.tistory.com/313
 
 
 </br><Level 3>
