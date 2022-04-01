@@ -218,7 +218,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> 
 
-2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> 
+2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> https://hwayomingdlog.tistory.com/314
 
 2020 KAKAO BLIND RECRUITMENT 자물쇠와 열쇠 -> https://hwayomingdlog.tistory.com/157
 
