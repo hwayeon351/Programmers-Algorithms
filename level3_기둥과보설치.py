@@ -19,7 +19,7 @@ def solution(n, build_frame):
         if b == 1:
             answer.append(item)
             if not check_possible(answer):
-                answer.remove(item)
+                answer.pop()
         #삭제
         elif item in answer:
             answer.remove(item)
