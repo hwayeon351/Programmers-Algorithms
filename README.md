@@ -222,7 +222,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 KAKAO BLIND RECRUITMENT 자물쇠와 열쇠 -> https://hwayomingdlog.tistory.com/157
 
-2020 KAKAO BLIND RECRUITMENT 기둥과 보 설치 ->
+2020 KAKAO BLIND RECRUITMENT 기둥과 보 설치 -> https://hwayomingdlog.tistory.com/315
 
 2020 KAKAO BLIND RECRUITMENT 외벽 점검 ->
 
