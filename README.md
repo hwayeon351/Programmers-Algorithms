@@ -224,7 +224,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 KAKAO BLIND RECRUITMENT 기둥과 보 설치 -> https://hwayomingdlog.tistory.com/315
 
-2020 KAKAO BLIND RECRUITMENT 외벽 점검 ->
+2020 KAKAO BLIND RECRUITMENT 외벽 점검 -> https://hwayomingdlog.tistory.com/316
 
 2020 KAKAO BLIND RECRUITMENT 블록 이동하기 ->
 
