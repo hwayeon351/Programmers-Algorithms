@@ -22,10 +22,10 @@ def solution(play_time, adv_time, logs):
     adv_time = list(map(int, adv_time.split(':')))
     adv_sec = adv_time[0]*3600 + adv_time[1]*60 + adv_time[2]
     
-    for sec in range(1, play_sec):
+    for sec in range(0, play_sec):
         counter[sec] += counter[sec-1]
         
-    for sec in range(1, play_sec):
+    for sec in range(0, play_sec):
         counter[sec] += counter[sec-1]
     
     for i in range(adv_sec-1, play_sec):
