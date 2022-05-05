@@ -246,7 +246,7 @@ N-Queen ->
 
 2021 카카오 인턴십 표 편집 -> https://hwayomingdlog.tistory.com/140
 
-2021 KAKAO BLIND RECRUITMENT 광고 삽입 -> 
+2021 KAKAO BLIND RECRUITMENT 광고 삽입 -> https://hwayomingdlog.tistory.com/321
 
 
 
