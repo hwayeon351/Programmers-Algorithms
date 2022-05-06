@@ -250,6 +250,8 @@ N-Queen ->
 
 2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> https://hwayomingdlog.tistory.com/322
 
+2022 KAKAO BLIND RECRUITMENT 파괴되지 않은 건물 -> 
+
 
 
 </br><Level 4>
