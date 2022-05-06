@@ -252,7 +252,7 @@ N-Queen ->
 
 2022 KAKAO BLIND RECRUITMENT 파괴되지 않은 건물 -> https://hwayomingdlog.tistory.com/323
 
-2022 KAKAO BLIND RECRUITMENT 양과 늑대 -> 
+2022 KAKAO BLIND RECRUITMENT 양과 늑대 -> https://hwayomingdlog.tistory.com/324
 
 
 
