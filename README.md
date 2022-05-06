@@ -216,7 +216,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2019 KAKAO BLIND RECRUITMENT 길 찾기 게임 -> https://hwayomingdlog.tistory.com/152
 
-2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> 
+2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> https://hwayomingdlog.tistory.com/322
 
 2019 KAKAO BLIND RECRUITMENT 매칭 점수 -> https://hwayomingdlog.tistory.com/314
 
@@ -226,7 +226,7 @@ N으로 표현 -> https://hwayomingdlog.tistory.com/77
 
 2020 KAKAO BLIND RECRUITMENT 외벽 점검 -> https://hwayomingdlog.tistory.com/316
 
-2020 KAKAO BLIND RECRUITMENT 블록 이동하기 ->
+2020 KAKAO BLIND RECRUITMENT 블록 이동하기 -> https://hwayomingdlog.tistory.com/325
 
 110 옮기기 -> https://hwayomingdlog.tistory.com/307
 
@@ -247,8 +247,6 @@ N-Queen ->
 2021 카카오 인턴십 표 편집 -> https://hwayomingdlog.tistory.com/140
 
 2021 KAKAO BLIND RECRUITMENT 광고 삽입 -> https://hwayomingdlog.tistory.com/321
-
-2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> https://hwayomingdlog.tistory.com/322
 
 2022 KAKAO BLIND RECRUITMENT 파괴되지 않은 건물 -> https://hwayomingdlog.tistory.com/323
 
