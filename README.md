@@ -248,7 +248,7 @@ N-Queen ->
 
 2021 KAKAO BLIND RECRUITMENT 광고 삽입 -> https://hwayomingdlog.tistory.com/321
 
-2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> 
+2021 KAKAO BLIND RECRUITMENT 카드 짝 맞추기 -> https://hwayomingdlog.tistory.com/322
 
 
 
